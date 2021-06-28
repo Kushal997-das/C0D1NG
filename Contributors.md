@@ -117,6 +117,7 @@
 - [Laura Perry](https://github.com/iLorah)
 - [Luiz Fantin](https://github.com/LuizFantin)
 - [Landon Lloyd](https://github.com/LandonLloyd)
+- [Leah Nguyen](https://github.com/nduongthucanh)
 
 # M
 - [Mountwo23](https://github.com/mountwo23)
